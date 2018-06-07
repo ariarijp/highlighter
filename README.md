@@ -1,0 +1,5 @@
+# highlighter
+
+## License
+
+MIT
